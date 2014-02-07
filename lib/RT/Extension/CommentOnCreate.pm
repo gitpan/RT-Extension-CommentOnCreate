@@ -1,6 +1,6 @@
 package RT::Extension::CommentOnCreate;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 use warnings;
 use strict;
@@ -23,7 +23,7 @@ RT::Extension::CommentOnCreate - Adds an optional Comment box to Ticket Creation
 
 May need root permissions
 
-=item C<patch rt (see patches directory)
+=item C<patch rt (see patches directory)>
 
 if you're running a version less than 3.8.8
 
